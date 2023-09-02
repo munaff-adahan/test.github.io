@@ -1,0 +1,5 @@
+com\azoza\jersey\app\Main.class
+com\azoza\jersey\app\controller\AuthController.class
+com\azoza\jersey\app\middleware\JwtValidationFilter.class
+com\azoza\jersey\app\controller\HomeController.class
+com\azoza\jersey\app\config\AppConfig.class
